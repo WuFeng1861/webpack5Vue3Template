@@ -1,0 +1,5 @@
+vite-plugin-imagemin 插件安装失败的话
+执行 pnpm install vite-plugin-imagemin -D --ignore-scripts
+
+
+"type": "module",
