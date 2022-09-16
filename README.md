@@ -1,0 +1,2 @@
+# webpack5Vue3Template
+一个Vue3 使用webpack5进行开发打包的模板 包含了大部分功能
